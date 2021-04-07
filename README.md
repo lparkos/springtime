@@ -1,2 +1,2 @@
 # springtime
-A simple spa app with html compiler
+A simple spa app, plain jane js/html/css, web components, with html compiler
